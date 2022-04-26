@@ -1,0 +1,249 @@
+#bgimage{
+    background-image: url(resume_images/8d299fd0b186bb220580720e32909e61.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+::selection {
+    color: rgb(230, 85, 12);
+    background: blue;
+}
+.container{
+    position: absolute;
+    left: 16%;
+    margin-top: 4%;
+    padding: 10%;
+    background-color:white;
+    padding-left: 2px;
+    padding-bottom: 50px;
+    border-radius: 13px;
+}
+#p1{
+    font-size: 20px;
+}
+
+.container1{
+    position: absolute;
+    left: 17.8%;
+    margin-top: 1%;
+    padding:35px;
+    padding-left: 2px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    background-image: url(resume_images/photo_2022-02-03_19-43-49.jpg);
+    background-size: 100px;
+    width: 60px;
+    height: 60px;
+}
+
+.container2{
+    position:fixed;
+    left: 28%;
+    margin-top: 4%;
+    padding: 10%;
+    padding-right: 670px;
+    padding-bottom: 130px;
+    background-color:white;
+    padding-left: 2px;
+    border-radius: 9px;
+    overflow:scroll;
+    overflow-x:hidden;      
+}
+::-webkit-scrollbar {
+    width: 12px;
+  }
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px blue; 
+    border-radius: 10px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background-image:url(resume_images/8d299fd0b186bb220580720e32909e61.jpg); 
+    border-radius: 10px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: gray; 
+  }
+#icons{
+    font-size: 15px;
+    position:absolute;
+    left: 15px;
+}
+
+#downicons{
+    font-size: 18px;
+    position:absolute;
+    left: 15px;
+    border-radius: 10px;
+    color:white;
+    background-color:royalblue;
+    border-color: royalblue;
+    padding:7px 7px;
+    cursor: red;
+}
+
+#containertext{
+    font-size: 22px;
+    font-weight: bold;
+    position:absolute;
+    left: 26px;
+    margin-top: -90px;
+}
+#containertext1{
+    font-size: 22px;
+    font-weight: bold;
+    position:absolute;
+    left: 50px;
+    margin-top: -50px;
+}
+#containertext2{
+    font-size: 13px;
+    font-weight:normal;
+    position:absolute;
+    left: 39px;
+    margin-top: 1px;
+}
+
+.heading1{
+    color: black;
+    position: absolute;
+    margin-top: -130px;
+    left: 20px;
+    text-decoration: underline;
+}
+
+.heading2{
+    color: black;
+    position: absolute;
+    margin-top: -30px;
+    left: 20px;
+    text-decoration: underline;
+}
+
+.bca{
+    color: black;
+    position: absolute;
+    margin-top: 4px;
+    left: 70px;
+}
+#objpara{
+    position: absolute;
+    margin-top: -100px;
+    left: 50px;
+}
+.bcap1{
+    position: absolute;
+    margin-top: 35px;
+    left: 150px;
+}
+
+.bcap2{
+    position: absolute;
+    margin-top: 70px;
+    left: 150px;
+}
+.bcap3{
+    position: absolute;
+    margin-top: 105px;
+    left: 150px;
+}
+
+.hsc{
+    color:black;
+    position: absolute;
+    margin-top: 150px;
+    left: 70px;
+}
+.hsc1{
+    position: absolute;
+    margin-top: 190px;
+    left: 150px;
+}
+.hsc2{
+    position: absolute;
+    margin-top: 230px;
+    left: 150px;
+}
+
+.sslc{
+    color: black;
+    position: absolute;
+    margin-top: 270px;
+    left: 70px;
+}
+.sslc1{
+    position: absolute;
+    margin-top: 310px;
+    left: 150px;
+}
+.sslc2{
+    position: absolute;
+    margin-top: 350px;
+    left: 150px;
+}
+
+.heading3{
+    color: black;
+    position: absolute;
+    margin-top: 400px;
+    left: 20px;
+    text-decoration: underline;
+}
+.pskills{
+    position: absolute;
+    font-size: 16px;
+    margin-top: 450px;
+    left: 150px;
+}
+
+.heading4{
+    color: black;
+    position: absolute;
+    margin-top: 500px;
+    left: 20px;
+    text-decoration: underline;
+}
+.pdname{
+    position: absolute;
+    font-size: 16px;
+    margin-top: 550px;
+    left: 150px;
+}
+.pdspace1{
+    display: inline-block;
+    margin-left: 110px;
+}
+.pdspace2{
+    display: inline-block;
+    margin-left: 34px;
+}
+.pdspace3{
+    display: inline-block;
+    margin-left: 41px;
+}
+.pdspace4{
+    display: inline-block;
+    margin-left: 19px;
+}
+.pdspace5{
+    display: inline-block;
+    margin-left: 46px;
+}
+.pdspace6{
+    display: inline-block;
+    margin-left: 10px;
+}
+.pdspace7{
+    display: inline-block;
+    margin-left: 8px;
+}
+.pdspace8{
+    display: inline-block;
+    margin-left: 170px;
+}
+.thank{
+    color: black;
+    position: absolute;
+    margin-top: 650px;
+    left: 240px;
+}
